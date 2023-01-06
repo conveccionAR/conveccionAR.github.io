@@ -1,0 +1,83 @@
+texto sobre los proyectos:
+usar full width!!!
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/prevenir.png)
+:::
+
+::: {.g-col-8}
+Proyecto Pronóstico y Alerta de Eventos de Inundaciones Repentinas (PREVENIR) \
+SATREPS (Science and Technology Research Partnership for Sustainable Development)
+
+:::
+
+:::
+
+
+Some text, some text, some text, some text, some text, [...] some text, some text
+
+
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/basededatos.png)
+:::
+
+::: {.g-col-8}
+Base de datos de eventos extremos sudarmerica titulo
+:::
+
+:::
+
+
+Some text, some text, some text, some text, some text, [...] some text, some text
+
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/RELAMAPGO.png)
+:::
+
+::: {.g-col-8}
+RELAMPAGO
+LINK
+:::
+
+:::
+
+
+Some text, some text, some text, some text, some text, [...] some text, some text
+
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/nmr_sera.png)
+:::
+
+::: {.g-col-8}
+NMR-SERA
+LINK
+:::
+
+:::
+
+
+Some text, some text, some text, some text, some text, [...] some text, some text
+
+
+
+
+
+
+
+
+
+
+
+
+

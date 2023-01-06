@@ -1,0 +1,43 @@
+---
+title: "TRABAJOS REALIZADOS"
+---
+
+<h5>Publicaciones recientes</h5> 	
+
+1. Corrales P, Galligani V., Ruiz J., Sapucci L., Dillon M.E., Garcia Skabar Y., Sacco M., Schwartz C., and Nesbitt Stephen, 2022: Hourly Assimilation of Different Sources of Observations Including Satellite Radiances in a  Mesoscale Convective System Case During RELAMPAGO campaign, Atmospheric Research, vol. 281, 106456, doi: [https://doi.org/10.1016/j.atmosres.2022.106456](https://doi.org/10.1016/j.atmosres.2022.106456).
+2. Bechis, H., Galligani V. S., Alvarez Imaz M., Cancelada M., Simone I., Piscitelli F., Maldonado P., Salio P. and Stephen W. Nesbitt, 2022: A case study of a severe hailstorm in Mendoza, Argentina, during the RELAMPAGO-CACTI field campaign, Atmospheric Research, vol. 271, 106127, doi: [https://doi.org/10.1016/j.atmosres.2022.106127](https://doi.org/10.1016/j.atmosres.2022.106127). 
+3. Barlakas,V., Galligani, V. S.​, A. Geer and P. Eriksson, 2022: Radiative transfer model inter-comparison for passive microwave all-sky conditions, Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 283, 108137, doi: [https://doi.org/10.1016/j.jqsrt.2022.108137](https://doi.org/10.1016/j.jqsrt.2022.108137). 
+4. Casanovas, C.; Salio, P.; Galligani, V. S.; Dolan, B. and Nesbitt, S.W, 2021: Drop Size Distribution Variability in Central Argentina during RELAMPAGO-CACTI. Remote Sens. 2021, 13, 2026, doi: [https://doi.org/10.3390/rs13112026](https://doi.org/10.3390/rs13112026). 
+5. Cutraro, F., Galligani V. S. and Y. Garcia Skabar, 2021: Evaluation of synthetic satellite images computed from radiative transfer and convection-allowing numerical weather prediction models over a region of South America, Q. J. R. Meteorol. Soc., vol. 147(738), 2988–3003, doi:[https://doi.org/10.1002/qj.4111](https://doi.org/10.1002/qj.4111).  
+6. Galligani, V. S., D. Wang, P. B. Corrales and C. Prigent, 2021: A Parameterization of the Cloud Scattering Polarization Signal Derived From GPM Observations for Microwave Fast Radiative Transfer Models, IEEE Transactions on Geoscience and Remote Sensing, vol. 59(11), 8968 - 8977, doi: [10.1109/TGRS.2021.3049921](10.1109/TGRS.2021.3049921).  
+7. Galligani, V. S., 2018: Comparison of the simulated microwave cloudy radiances using ARTS and RTTOV-SCAT, International TOVS Study Conference-XXI Proceedings. 
+8. Galligani, V. S., Wang, D., Alvarez Imaz, M., Salio, P., and Prigent, C, 1017: Analysis and evaluation of WRF microphysical schemes for deep moist convection over south-eastern South America (SESA) using microwave satellite observations and radiative transfer simulations, Atmos. Meas. Tech., 10, 3627–3649, [https://doi.org/10.5194/amt-10-3627-2017](https://doi.org/10.5194/amt-10-3627-2017.)
+
+
+<h5>Participación en congresos recientes</h5> 	
+
+* Bechis, H., Ribeiro, B., Salio, P., de Lima Nascimento, E., Galligani, V., Simone, I., Casanovas, C., Piscitelli, F., Benedicto, M., González, S., García F., Ruiz, J., Vidal, L., Santayana, N. Hacia la creación de una base de datos de tormentas severas en Sudamérica. Congremet XIV. 7-11 Noviembre, 2022. Buenos Aires, Argentina. 
+* Galligani, V., Cancelada, M., Salio, P., Bang, S. Análisis regional de un algoritmo satelital multi frecuencia de ocurrencia de granizo basado en observaciones microondas pasivas utilizando radares meteorológicos. Congremet XIV. 7-11 Noviembre, 2022. Buenos Aires, Argentina. 
+* Velazquez, Y., Nicora M.G., and Galligani V. Estudio de la variación del gradiente de potencial en dos localidades Argentinas. Congremet XIV. 7-11 Noviembre, 2022. Buenos Aires, Argentina.
+* Corrales P., Schwartz, C., Ruiz, J. and Galligani, V. Assimilation of polar and geostationary satellite observations during RELAMPAGO using a WRF‐GSI‐LETKF system. 8th International Symposium on Data Assimilation (ISDA). Colorado, USA. Junio 2022.
+* Velazquez, Y., Nicora M.G., and Galligani V. Curva Local media diaria de la variable Gradiente de Potencial y su relación con las tormentas a gran escala. XXIX REUNIÓN CIENTÍFICA ASOCIACIÓN ARGENTINA DE GEOFÍSICOS Y GEODESTAS. Mendoza, Argentina.  2021. 
+* Bechis, H., Galligani V.S., Alvarez Imaz M., Cancelada M., Simone I., Piscitelli F., Maldonado P., Salio P. and Stephen W. Nesbitt. Analysis of the environment of a severe hailstorm in Mendoza, Argentina during the RELAMPAGO-CACTI field campaign. EMS Annual Meeting (online).  Septiembre, 2021. 
+* Corrales P., J. Ruiz, V.S. Galligani. Forecast Evaluation of a Deep Convection Case During Relampago Assimilating Conventional and Satellite Observations with the WRF-GSI-LETKF System. WCRP-WWRP Symposium on Data Assimilation and Reanalysis (online). Septiembre, 2021. 
+* Barlakas,V., Galligani, V.S​, A. Geer and P. Eriksson. On the accuracy of RTTOV-SCATT for radiative transfer in all-sky conditions. International TOVS Study Conferences (ITSC) XXIII (online). Junio, 2021.
+* Corrales P., J. Ruiz, V.S. Galligani. Forecast Evaluation of a Deep Convection Case During Relampago Assimilating Conventional and Satellite Observations with the WRF-GSI-LETKF System. International TOVS Study Conferences (ITSC) XXIII (online). Junio, 2021.
+* Corrales P, Galligani V.S., Ruiz J., Sapucci L., Dillon M.E., Garcia Skabar Y., Sacco M., and Nesbitt Stephen. Assimilation of conventional and satellite observations in a deep convection case during RELAMPAGO using the WRF-GSI-LETFK system. The International EnKF Workshop 2021 (online). Junio, 2021. 
+* Bechis, H., Galligani V.S., Alvarez Imaz M., Cancelada M., Simone I., Piscitelli F., Maldonado P., Salio P. and Stephen W. Nesbitt. A case study of a severe hailstorm in Mendoza, Argentina, during the RELAMPAGO-CACTI field campaign. 3rd European Hail Workshop (online).  Marzo, 2021. 
+* Casanovas C., P. Salio, V.S. Galligani, N. Stephen, and B. Dolan.  Drop-Size Distribution Variability over Central Argentina during RELAMPAGO-CACTI. American Geophysical Union (AGU) Fall Meeting. Diciembre, 2019. San Francisco, USA. 
+* Galligani V.S., D. Wang, and C. Prigent. Microphysical properties of ice particles as revealed by satellite microwave polarimetric measurements and radiative transfer modeling. American Geophysical Union (AGU) Fall Meeting. Diciembre, 2019. San Francisco, USA. 
+* Galligani V.S., D. Wang, C. Prigent and P. Salio. Microphysical properties of ice particles as revealed by satellite microwave polarimetric measurements and radiative transfer modeling. RELAMPAGO-CACTI Data Analysis Workshop. 19-22 Noviembre, 2019. Buenos Aires, Argentina. 
+* Corrales P., J. Ruiz, V.S. Galligani, M. Sacco, M. E. Dillon, Y. Garcia Skabar, L. Sapucci, and S. Nesbitt. Assimilation of conventional observations in a deep convection case during RELAMPAGO using the WRF-GSI-LETFK system. RELAMPAGO-CACTI Data Analysis Workshop. 19-22 Noviembre, 2019. Buenos Aires, Argentina. 
+* Casanovas C., P. Salio, and V.S. Galligani.  Drop-Size Distribution Variability over Central Argentina during RELAMPAGO-CACTI. RELAMPAGO-CACTI Data Analysis Workshop. 19-22 Noviembre, 2019. Buenos Aires, Argentina.
+* Galligani V.S., D. Wang, and C. Prigent. Microphysical properties of ice particles as revealed by satellite microwave polarimetric measurements and radiative transfer modeling. XXII International TOVS Study Conference (ITSC). 31 October - 6 November, 2019. Saint-Sauveur, Québec, Canada. 
+* Galligani V.S., D. Wang, and P. Maldonado. Implementation and evaluation of a new forward polarimetric radar operator for the Weather Research and Forecasting model (WRF). Congremet XIII. 16-19 October, 2018. Rosario, Argentina. 
+* Cutraro F., V.S. Galligani, Y. Garcia Skabar. Generation of IR synthetic satellite observations from numerical prediction models. Congremet XIII. 16-19 October, 2018. Rosario, Argentina. 
+* Galligani V.S. and P. Eriksson. Comparison of the simulated microwave cloudy radiances using ARTS and RTTOV-SCAT. XXI International TOVS Study Conference (ITSC). 29 November - 5 December, 2017. Darmstadt, Germany. 
+* Galligani V.S., D. Wang, M. Alvarez Imaz, P. Salio and C. Prigent. Analysis and evaluation of WRF microphysical schemes for deep moist convection over Southeastern South America (SESA) using microwave satellite observations and radiative transfer simulations. 8th IPWG and 5th IWSSM Joint Workshop. 3-7 October, 2016. Bologna, Italy. 
+
+
+
+

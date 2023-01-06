@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+          - "images/equipo/*"
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - href: quienes_somos.qmd
+        text: Quienes somos
+      - href: trabajos.qmd
+        text: Trabajos realizados 
+      - href: proyects.qmd
+        text: Proyectos
+      - href: contactate.qmd
+        text: Contacto 
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Links de interes"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
