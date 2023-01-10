@@ -16,8 +16,6 @@ title: "Grupo de Investigación"
 
 [![$~~~~~~$Lic. Ines Simone](images/test.jpeg){width=150}](simone.qmd)
 
-[![$~~~~~~$Agustin Granato](images/test.jpeg){width=150}](granatto.qmd)
-
 :::
 
 A su vez, tenemos una estrecha colaboración con los grupos de investigación liderados por
