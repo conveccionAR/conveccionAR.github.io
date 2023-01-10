@@ -1,5 +1,5 @@
 ---
-title: "NOMBRE GRUPO: Convección húmeda profunda fenomenos severos etc"
+title: "conveccionAR: Grupo para el estudio de la convección húmeda profunda y sus impactos"
 crossref:
   title-delim: "**.**"
 execute:
