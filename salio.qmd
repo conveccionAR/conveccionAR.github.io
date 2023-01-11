@@ -12,14 +12,10 @@ Ciudad Autónoma de Buenos Aires \
 **ICONOS DE MAILS Y TWITTER! **
 
 
-function twitter(handle)
-  local output = '<a href="https://twitter.com/paola_salio' .. pandoc.utils.stringify(handle) .. '"><i class="bi bi-twitter" ></i></a>'
-  return pandoc.RawBlock('html', output)
-end
+<a href="https://twitter.com/paola_salio' .. pandoc.utils.stringify(handle) .. '"><i class="bi bi-twitter" ></i></a>
 
 
 Email: salio@cima.fcen.uba.ar
-{{< twitter schochastics >}}
 
 
 
