@@ -11,8 +11,8 @@ Ciudad Autónoma de Buenos Aires \
 
 **ICONOS DE MAILS Y TWITTER! **
 
+i[<i class="bi bi-twitter"></i>](https://twitter.com/paola_salio)
 
-<a href="https://twitter.com/paola_salio' .. pandoc.utils.stringify(handle) .. '"><i class="bi bi-twitter" ></i></a>
 
 
 Email: salio@cima.fcen.uba.ar
