@@ -12,17 +12,7 @@ Ciudad Autónoma de Buenos Aires \
 **ICONOS DE MAILS Y TWITTER! **
 
 i[<i class="bi bi-twitter"></i>](https://twitter.com/paola_salio)
-
-
-
-Email: salio@cima.fcen.uba.ar
-
-
-
-[![Twitter URL]()](https://twitter.com/paola_salio)
-
-
-Twitter: @paola_salio
+i[<i class="bi bi-inbox"></i>](salio@cima.fcen.uba.ar) 
 
 **Biografía**
 Me especializo en el estudio de los procesos físicos, dinámicos y microfísicos que ocurren en la atmósfera terrestre y dan lugar a eventos meteorológicos de alto impacto social (principalmente granizo y lluvias intensas), haciendo especial foco en la utilización de radares y satélites meteorológicos, pronóstico a muy corto (hasta 3 horas) y mediano plazo (hasta 2 días). Asimismo, para el estudio de estos eventos se requieren de observaciones intensivas, desde el año 2012 me aboqué al diseño, desarrollo, búsqueda de financiación e implementación de la campaña RELAMPAGO-CACTI como investigadora principal por Argentina junto a un grupo de investigadores de Argentina, Brasil y Estados Unidos. Desde el año 2016 participo activamente del grupo Nowcasting and Mesoscale Research del World Weather Research Program de la World Meteorological Organization y desde el año 2020 soy co-chair del grupo. Junto al grupo de trabajo Societal and Economic Research Applications hemos desarrollado el [programa sobre capacidades en técnicas de nowcasting y sistemas de alerta temprana de los Servicio Meteorológicos en el mundo](https://wwrp-nowcastingcapabilities.com/).
