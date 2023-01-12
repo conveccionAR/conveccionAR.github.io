@@ -1,5 +1,5 @@
 ---
-title: "conveccionAR: Grupo para el estudio de la convección húmeda profunda y sus impactos"
+title: "conveccion.AR: Grupo para el estudio de la convección húmeda profunda y sus impactos"
 crossref:
   title-delim: "**.**"
 execute:
@@ -10,7 +10,20 @@ execute:
 
 Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos (IFAECI, CNRS-CONICET-UBA)
 
-![Credito foto y xplicar BUSCAR CON MEJOR RESO](images/celda.jpeg)
+::: {layout-nrow=2}
+
+[![Credito: ](images/celda.jpeg)]
+
+[![Credito: DOE-ARM](images/CACTI_lightning.jpg)]
+
+[![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg)]
+
+[![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg)]
+
+[![Credito: @GuilleGoldes](images/DOE_relampago.jpeg)]
+
+:::
+
 
 <h5>Temas de interes</h5>
 
