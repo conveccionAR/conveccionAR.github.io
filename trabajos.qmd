@@ -11,8 +11,7 @@ title: "TRABAJOS REALIZADOS"
 5. Cutraro, F., Galligani V. S. and Y. Garcia Skabar, 2021: Evaluation of synthetic satellite images computed from radiative transfer and convection-allowing numerical weather prediction models over a region of South America, Q. J. R. Meteorol. Soc., vol. 147(738), 2988–3003, doi:[https://doi.org/10.1002/qj.4111](https://doi.org/10.1002/qj.4111).  
 6. Galligani, V. S., D. Wang, P. B. Corrales and C. Prigent, 2021: A Parameterization of the Cloud Scattering Polarization Signal Derived From GPM Observations for Microwave Fast Radiative Transfer Models, IEEE Transactions on Geoscience and Remote Sensing, vol. 59(11), 8968 - 8977, doi: [10.1109/TGRS.2021.3049921](10.1109/TGRS.2021.3049921).  
 7. Galligani, V. S., 2018: Comparison of the simulated microwave cloudy radiances using ARTS and RTTOV-SCAT, International TOVS Study Conference-XXI Proceedings. 
-8. Galligani, V. S., Wang, D., Alvarez Imaz, M., Salio, P., and Prigent, C, 1017: Analysis and evaluation of WRF microphysical schemes for deep moist convection over south-eastern South America (SESA) using microwave satellite observations and radiative transfer simulations, Atmos. Meas. Tech., 10, 3627–3649, [https://doi.org/10.5194/amt-10-3627-2017](https://doi.org/10.5194/amt-10-3627-2017.)
-
+8. Galligani, V. S., Wang, D., Alvarez Imaz, M., Salio, P., and Prigent, C, 2018: Analysis and evaluation of WRF microphysical schemes for deep moist convection over south-eastern South America (SESA) using microwave satellite observations and radiative transfer simulations, Atmos. Meas. Tech., 10, 3627–3649, [https://doi.org/10.5194/amt-10-3627-2017](https://doi.org/10.5194/amt-10-3627-2017.)
 
 <h5>Participación en congresos recientes</h5> 	
 
