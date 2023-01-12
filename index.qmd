@@ -5,18 +5,17 @@ crossref:
 execute:
   echo: false  
 ---
-\
+![](images/celda.jpeg)
+
 <h5>¿Quiénes somos?</h5>
 
 Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos (IFAECI, CNRS-CONICET-UBA)
 
 ::: {layout-nrow=2}
 
-![Credito: ](images/celda.jpeg)
+![Credito: DOE-ARM](images/CACTI_lightning.jpg){height=500}
 
-![Credito: DOE-ARM](images/CACTI_lightning.jpg)
-
-![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg)
+![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg){height=500}
 
 ![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg)
 
@@ -32,14 +31,13 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 * Mejorar la caracterización y la detección de la convección húmeda profunda. 
 * Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
 
-::: {layout-nrow=2}
+::: {layout-nrow=1}
 
-[![Credito: C5N](images/granizo.png){width=430}]
+![Credito: C5N](images/granizo.png){width=430}
 
-[![Credito: [https://doi.org/10.1175/BAMS-D-19-0012.1](https://doi.org/10.1175/BAMS-D-19-0012.1)](images/foto_BAMS.jpg){width=430}]
+![Credito: [https://doi.org/10.1175/BAMS-D-19-0012.1](https://doi.org/10.1175/BAMS-D-19-0012.1)](images/foto_BAMS.jpg){width=430}
 
-[![Credito: C5N](images/granizo2.png){width=430}]
-
+![Credito: C5N](images/granizo2.png){width=430}
 
 :::
 
