@@ -4,19 +4,14 @@ title: "Grupo de Investigación"
 
 <br/>
 
-::: {layout-nrow=2}
+![ACA VA FOTO GRUPAL! ](images/test.jpeg)
 
-[![$~~~~~~$Dra. Paola Salio](images/salio.png){width=250}](salio.qmd)
-
-[![$~~~~~~$Dra. Vito Galligani](images/galligani.png){width=160}](galligani.qmd)
-
-[![$~~~~~~$Dr. Hernan Bechis](images/test.jpeg){width=150}](bechis.qmd)
-
-[![$~~~~~~$Dra. Maite Cancelada](images/test.jpeg){width=150}](cancelada.qmd)
-
-[![$~~~~~~$Lic. Ines Simone](images/test.jpeg){width=150}](simone.qmd)
-
-:::
+* [Dra. Paola Salio](salio.qmd)
+* [Dra. Vito Galligani](galligani.qmd)
+* [Dr. Hernan Bechis](bechis.qmd)
+* [Dra. Maite Cancelada](cancelada.qmd)
+* [Lic. Ines Simone](simone.qmd)
+* Agustin Granato (Estudiante DCAO)
 
 A su vez, tenemos una estrecha colaboración con los grupos de investigación liderados por
 
