@@ -5,7 +5,7 @@ crossref:
 execute:
   echo: false  
 ---
-![](images/celda.jpeg){height=200}
+[![](images/celda.jpeg){height=100}]
 
 <h5>¿Quiénes somos?</h5>
 
@@ -13,13 +13,13 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 
 ::: {layout-nrow=2}
 
-![Credito: DOE-ARM](images/CACTI_lightning.jpg){height=400}
+[![Credito: DOE-ARM](images/CACTI_lightning.jpg){height=400}]
 
-![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg){height=400}
+[![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg){height=400}]
 
-![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg){height=400}
+[![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg){height=400}]
 
-![Credito: @GuilleGoldes](images/DOE_relampago.jpeg){height=400}
+[![Credito: @GuilleGoldes](images/DOE_relampago.jpeg){height=400}]
 
 :::
 
