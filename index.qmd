@@ -5,7 +5,7 @@ crossref:
 execute:
   echo: false  
 ---
-[![](images/celda.jpeg){height=100}]
+[![hacer esta foto tipo banner?](images/celda.jpeg){height=150}]
 
 <h5>¿Quiénes somos?</h5>
 
@@ -13,13 +13,13 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 
 ::: {layout-nrow=2}
 
-[![Credito: DOE-ARM](images/CACTI_lightning.jpg){height=400}]
+![Credito: DOE-ARM](images/CACTI_lightning.jpg)
 
-[![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg){height=400}]
+![Credito: @CuadradoManuela](images/CuadradoManuela_celda.jpeg)
 
-[![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg){height=400}]
+![Credito: @LuchoVidalOK](images/lucho_pilus.jpeg)
 
-[![Credito: @GuilleGoldes](images/DOE_relampago.jpeg){height=400}]
+![Credito: @GuilleGoldes](images/DOE_relampago.jpeg)
 
 :::
 
@@ -33,11 +33,11 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 
 ::: {layout-nrow=1}
 
-![Credito: C5N](images/granizo.png){width=430}
+![Credito: C5N](images/granizo.png)
 
-![Credito: [https://doi.org/10.1175/BAMS-D-19-0012.1](https://doi.org/10.1175/BAMS-D-19-0012.1)](images/foto_BAMS.jpg){width=430}
+![Credito: [https://doi.org/10.1175/BAMS-D-19-0012.1](https://doi.org/10.1175/BAMS-D-19-0012.1)](images/foto_BAMS.jpg)
 
-![Credito: C5N](images/granizo2.png){width=430}
+![Credito: C5N](images/granizo2.png)
 
 :::
 
