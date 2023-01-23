@@ -13,7 +13,7 @@ Somos un grupo de investigaci√≥n del Centro de Investigaciones del Mar y la Atm√
 
 ::: {layout-nrow=2}
 
-![](images/CACTI_lightning.jpg)
+![](images/CACTI_lightning.jpg)(fig-height=110%)
 
 ![](images/radarZ.jpeg)
 
