@@ -13,14 +13,19 @@ Somos un grupo de investigaci√≥n del Centro de Investigaciones del Mar y la Atm√
 
 ::: {layout-nrow=2}
 
-![](images/CACTI_lightning.jpg)(fig-height=110%)
-
 ![](images/radarZ.jpeg)
+
+![](images/satellite.GOES-16.201811101630.2km_ch13_clean_longwave-ir.jpg)
+
+:::
+
+::: {layout-nrow=3}
+
+![](images/embajada.jpeg)
 
 ![](images/granizo.png)
 
 ![](images/lucho_pilus.jpeg)
-
 
 :::
 
