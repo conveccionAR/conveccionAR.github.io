@@ -11,13 +11,15 @@ execute:
 
 Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos (IFAECI, CNRS-CONICET-UBA)
 
+
 ::: {layout-ncol=2}
 
-![](images/radarZ.jpeg)
+![](images/radarZ.jpeg){height=1px}
+
 
 ![](images/satellite.GOES-16.201811101630.2km_ch13_clean_longwave-ir.jpg)
-
 :::
+
 
 ::: {layout-ncol=3}
 
