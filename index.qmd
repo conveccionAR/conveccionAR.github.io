@@ -5,7 +5,6 @@ crossref:
 execute:
   echo: false  
 ---
-![hacer esta foto tipo banner?](images/celda.jpeg){height=150}
 
 <h5>¿Quiénes somos?</h5>
 
