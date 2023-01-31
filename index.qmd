@@ -11,6 +11,12 @@ execute:
 
 Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos (IFAECI, CNRS-CONICET-UBA)
 
+<h5>Temas de interes</h5>
+
+* Entender los procesos que inician, organizan y mantienen a la convección húmeda profunda en la región, con especial énfasis en eventos de convección extrema asociados a eventos de alto impacto, es decir a la presencia de granizo, ráfagas severas e inundaciones repentinas.
+* La evaluación y el desarrollo de herramientas para su detección
+* Mejorar la caracterización y la detección de la convección húmeda profunda.
+* Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
 
 ::: {layout-ncol=2}
 
@@ -18,6 +24,7 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 
 
 ![](images/satellite.GOES-16.201811101630.2km_ch13_clean_longwave-ir.jpg)
+
 :::
 
 
@@ -31,10 +38,3 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 
 :::
 
-
-<h5>Temas de interes</h5>
-
-* Entender los procesos que inician, organizan y mantienen a la convección húmeda profunda en la región, con especial énfasis en eventos de convección extrema asociados a eventos de alto impacto, es decir a la presencia de granizo, ráfagas severas e inundaciones repentinas. 
-* La evaluación y el desarrollo de herramientas para su detección 
-* Mejorar la caracterización y la detección de la convección húmeda profunda. 
-* Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
