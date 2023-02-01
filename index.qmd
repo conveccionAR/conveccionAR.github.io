@@ -36,5 +36,5 @@ Somos un grupo de investigaci√≥n del Centro de Investigaciones del Mar y la Atm√
 
 :::
 
-![](images/RELAMPAGO_EQUIPO.webp)
+![](images/RELAMPAGO_EQUIPO.webp){fig-align="center"}
 
