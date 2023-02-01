@@ -1,6 +1,3 @@
-texto sobre los proyectos:
-usar full width!!!
-
 ::: {.grid}
 
 ::: {.g-col-4}
@@ -15,9 +12,7 @@ SATREPS (Science and Technology Research Partnership for Sustainable Development
 
 :::
 
-
-Some text, some text, some text, some text, some text, [...] some text, some text
-
+El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral hidrometeorológico y a corto plazo para la detección temprana de eventos de inundaciones repentinas asociadas a lluvias intensas con un foco particular en aquellos eventos que ocurren en ciudades densamente pobladas. El proyecto contempla una colaboración estrecha entre instituciones de investigación en Japón y Organismos científico-técnicos en Argentina para el desarrollo de soluciones y herramientas novedosas.
 
 
 ::: {.grid}
@@ -48,7 +43,7 @@ CACTI (Clouds, Aerosols, and Complex Terrain Interactions)
 
 Junio 2018 – Abril 2019
 
-[(https://wwrp-nowcastingcapabilities.com](https://wwrp-nowcastingcapabilities.com/)
+[https://sites.google.com/illinois.edu/relampago](https://sites.google.com/illinois.edu/relampago/home)
 :::
 
 :::
@@ -57,9 +52,11 @@ RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional 
 
 CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
 
-
-
 ::: {.grid}
+
+
+
+
 
 ::: {.g-col-4}
 ![](images/wwrp.png)
