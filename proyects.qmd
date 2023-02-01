@@ -5,6 +5,7 @@
 :::
 
 ::: {.g-col-8}
+<h5>PREVENIR-SATREPS</h5>
 Proyecto Pronóstico y Alerta de Eventos de Inundaciones Repentinas (PREVENIR) \
 SATREPS (Science and Technology Research Partnership for Sustainable Development)
 
@@ -14,20 +15,22 @@ SATREPS (Science and Technology Research Partnership for Sustainable Development
 
 El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral hidrometeorológico y a corto plazo para la detección temprana de eventos de inundaciones repentinas asociadas a lluvias intensas con un foco particular en aquellos eventos que ocurren en ciudades densamente pobladas. El proyecto contempla una colaboración estrecha entre instituciones de investigación en Japón y Organismos científico-técnicos en Argentina para el desarrollo de soluciones y herramientas novedosas.
 
-
 ::: {.grid}
+
+
+
+
 
 ::: {.g-col-4}
 ![](images/basededatos.png)
 :::
 
 ::: {.g-col-8}
-Base de datos de tormentas severas en Sudamérica
-
+<h5>Base de datos de tormentas severas en Sudamérica</h5>
 :::
 
 :::
-
+TEXTO
 
 ::: {.grid}
 
@@ -36,6 +39,7 @@ Base de datos de tormentas severas en Sudamérica
 :::
 
 ::: {.g-col-8}
+<h5>RELAMPAGO-CACTI</h5>
 
 RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations) 
 
@@ -63,7 +67,10 @@ CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. p
 :::
 
 ::: {.g-col-8}
-NMR-SERA: The Nowcasting and Mesoscale Research (NMR) and the Societal Economic Research Applications (SERA) Working Groups from the WMO World Weather Research Programme (WWRP) are working together to evaluate nowcasting systems available in the different WMO Regional Associations, with a particular focus on developing countries, and types of warnings generated on severe weather as well as the way information is communicated to decision-makers and users. This activity is concentrated on evaluating techniques applied to develop severe weather warning systems on phenomena such as hail, strong winds, thunderstorms and tornadoes in developing countries.
+
+<h5>NMR-SERA</h5>
+
+The Nowcasting and Mesoscale Research (NMR) and the Societal Economic Research Applications (SERA) Working Groups from the WMO World Weather Research Programme (WWRP) are working together to evaluate nowcasting systems available in the different WMO Regional Associations, with a particular focus on developing countries, and types of warnings generated on severe weather as well as the way information is communicated to decision-makers and users. This activity is concentrated on evaluating techniques applied to develop severe weather warning systems on phenomena such as hail, strong winds, thunderstorms and tornadoes in developing countries.
 
 NMR WG and SERA WG stress the importance of interdisciplinary research as a fundamental tool to evaluate and understand the needs and requirements of both the scientific community and end-users of warnings.
 
