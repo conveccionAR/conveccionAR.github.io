@@ -6,10 +6,7 @@ Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
-**ICONOS DE MAILS Y TWITTER! **
-
-Email: hernan.bechis@cima.fcen.uba.ar
-Twitter: ???
+<i class="bi bi-inbox"></i>: hernan.bechis@cima.fcen.uba.ar \
 
 <h2>Bio</h2>
 Lic. en Ciencias de la Atmósfera (FCEN–UBA) \
@@ -17,4 +14,9 @@ Dr. de la UBA con especialización en Ciencias de la Atmósfera (FCEN–UBA) \
 Posdoc CIMA-UBA-CONICET \
 \
 Anteriormente trabajé en temas de escala sinóptica y mesoescala, fundamentalmente enfocado en los procesos asociados a la ocurrencia de líneas secas en Argentina. Actualmente me encuentro estudiando mecanismos de inicio y organización de la convección húmeda profunda en el norte de la Patagonia y el sur de la Región Pampeana. Además, estudio condiciones asociadas al desarrollo de tiempo severo en Argentina y Sudamérica. Para ello trabajo en la creación de una base de datos de eventos severos, en estrecha colaboración con los miembros de este grupo y otros grupos dentro del Servicio Meteorológico Nacional e investigadores de la región.
+
+<h5>Educación</h5>
+Lic. en Ciencias de la Atmósfera (FCEN–UBA) \
+Dr. de la UBA con especialización en Ciencias de la Atmósfera (FCEN–UBA) \
+Postdoc CIMA-CONICET \
 
