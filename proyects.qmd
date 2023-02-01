@@ -27,13 +27,11 @@ Some text, some text, some text, some text, some text, [...] some text, some tex
 :::
 
 ::: {.g-col-8}
-Base de datos de eventos extremos sudarmerica titulo
-:::
+Base de datos de tormentas severas en Sudamérica
 
 :::
 
-
-Some text, some text, some text, some text, some text, [...] some text, some text
+:::
 
 
 ::: {.grid}
@@ -60,21 +58,27 @@ RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional 
 CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
 
 
+
 ::: {.grid}
 
 ::: {.g-col-4}
-![](images/nmr_sera.png)
+![](images/wwrp.png)
 :::
 
 ::: {.g-col-8}
-NMR-SERA
-LINK
+NMR-SERA: The Nowcasting and Mesoscale Research (NMR) and the Societal Economic Research Applications (SERA) Working Groups from the WMO World Weather Research Programme (WWRP) are working together to evaluate nowcasting systems available in the different WMO Regional Associations, with a particular focus on developing countries, and types of warnings generated on severe weather as well as the way information is communicated to decision-makers and users. This activity is concentrated on evaluating techniques applied to develop severe weather warning systems on phenomena such as hail, strong winds, thunderstorms and tornadoes in developing countries.
+
+NMR WG and SERA WG stress the importance of interdisciplinary research as a fundamental tool to evaluate and understand the needs and requirements of both the scientific community and end-users of warnings.
+
+The main objectives are to evaluate access to radar, satellite and lightning data, nowcasting techniques and severe weather warning systems available in developing countries as well as promote a set of best practices in order to improve severe weather warning systems.
+Information was collected through a survey answered by the National Meteorological and Hydrological Services of each country in different WMO Regional Associations during 2021 and 2022, and with support of EUMETNET Nowcasting Programme.
+
+[(https://wwrp-nowcastingcapabilities.com/about-us/])(https://wwrp-nowcastingcapabilities.com/about-us/)
 :::
 
 :::
 
 
-Some text, some text, some text, some text, some text, [...] some text, some text
 
 
 
