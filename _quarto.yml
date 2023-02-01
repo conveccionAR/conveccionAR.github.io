@@ -16,8 +16,6 @@ website:
         text: Trabajos realizados 
       - href: proyects.qmd
         text: Proyectos
-      - href: contactate.qmd
-        text: Contacto 
 
   sidebar:
     style: "docked"
