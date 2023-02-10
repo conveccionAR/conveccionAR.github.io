@@ -32,9 +32,11 @@ Ciudad Autónoma de Buenos Aires \
 
 
 <h5>Biografía</h5>
-
+Durante mi tesis doctoral me especialicé en el uso de modelos de transferencia radiativa para estudiar las propiedades dispersivas de las nubes y la precipitación, con especial enfasis en las microondas. Actualmente mis lineas de investigación se avocan a avanzar en el desarrollo de herramientas de sensoramiento remoto para la detección y el monitoreo de la convección húmeda profunda, usando modelos de transferencia radiativa, radares meteorologicos e instrumentos satelitales. 
 
 <h5>Educación</h5>
 MSci. Physics (Imperial College London) \ 
+
 Dra. Microwave and millimeter radiometry for the characterization and quantification of ice and snow clouds, École Doctorale d’Astronomie et d’Astrophysique d’Ile de France, Paris (Francia) \ 
-Postdoc CIMA-CONICET 
+
+Postdoc CIMA-CONICET \
