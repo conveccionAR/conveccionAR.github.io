@@ -9,7 +9,23 @@ Departamento de Ciencias de la Atmósfera y los Océanos. \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
-[<i class="bi bi-twitter"></i>](https://twitter.com/paola_salio) \
+[{{< fa brands twitter   >}}</i>](https://twitter.com/paola_salio) 
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=Yj0gACYAAAAJ&hl=sk) \
+
+<style>
+  .fa-twitter {
+    color: #0077CC;
+    font-size: 25px;
+  }
+</style>
+
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
+ 
 <i class="bi bi-inbox"></i>: salio@cima.fcen.uba.ar \
 
 <h5>Biografía</h5> 

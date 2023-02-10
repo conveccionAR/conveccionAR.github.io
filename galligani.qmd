@@ -10,6 +10,27 @@ Ciudad Autónoma de Buenos Aires \
 
 <i class="bi bi-inbox"></i>: vito.galligani@cima.fcen.uba.ar \
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+
+<a href="https://scholar.google.com/citations?user=4h4_ZG8AAAAJ&hl=fr">
+  <i class="fa fa-google-scholar"></i>
+</a>
+
+<style>
+  .fa-google-scholar {
+    color: #0077CC;
+    font-size: 20px;
+  }
+</style>
+
+
+
+
+
+
+
+
+
 <h5>Biografía</h5>
 
 

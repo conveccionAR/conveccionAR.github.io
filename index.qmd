@@ -1,5 +1,5 @@
 ---
-title: "conveccion.AR: Grupo para el estudio de la convección húmeda profunda y sus impactos"
+title: "CHumPI: Conveción HUMeda Profunda y sus IMpactos en Sudamerica"
 crossref:
   title-delim: "**.**"
 execute:
