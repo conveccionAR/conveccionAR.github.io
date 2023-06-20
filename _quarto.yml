@@ -21,7 +21,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Basics"
+      - section: "Links de interes"
         contents:
           - sidebar.qmd
 
