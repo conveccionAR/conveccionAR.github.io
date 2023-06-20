@@ -18,8 +18,12 @@ website:
         text: Proyectos
 
   sidebar:
-    - qmd: sidebar.qmd
-      dock: true
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - sidebar.qmd
 
 format:
   html:
