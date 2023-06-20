@@ -1,6 +1,6 @@
 <h1>Dr. Hernan Bechis</h1>
 
-![](images/bechis.jpeg){width=250} \
+![](images/bechis.png){width=250} \
 \
 Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
