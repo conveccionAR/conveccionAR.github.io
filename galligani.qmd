@@ -8,26 +8,24 @@ Departamento de Ciencias de la Atmósfera y los Océanos. \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
-<i class="bi bi-inbox"></i>: vito.galligani@cima.fcen.uba.ar \
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
-
-<a href="https://scholar.google.com/citations?user=4h4_ZG8AAAAJ&hl=fr">
-  <i class="fa fa-google-scholar"></i>
-</a>
+[{{< fa brands twitter   >}}</i>](https://twitter.com/vittoldi)
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=4h4_ZG8AAAAJ&hl=en) \
 
 <style>
-  .fa-google-scholar {
+  .fa-twitter {
     color: #0077CC;
-    font-size: 20px;
+    font-size: 25px;
   }
 </style>
 
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
 
-
-
-
-
+<i class="bi bi-inbox"></i>: vito.galligani@cima.fcen.uba.ar \
 
 
 

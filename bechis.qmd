@@ -1,11 +1,27 @@
 <h1>Dr. Hernan Bechis</h1>
 
-![](images/bechis.png){width=250} \
+![](images/bechis.jpeg){width=250} \
 \
 Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
+
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com) \
+
+<style>
+  .fa-twitter {
+    color: #0077CC;
+    font-size: 25px;
+  }
+</style>
+
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
 <i class="bi bi-inbox"></i>: hernan.bechis@cima.fcen.uba.ar \
 
 <h2>Bio</h2>

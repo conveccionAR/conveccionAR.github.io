@@ -10,7 +10,7 @@ Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
 [{{< fa brands twitter   >}}</i>](https://twitter.com/paola_salio) 
-[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=Yj0gACYAAAAJ&hl=sk) \
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=Yj0gACYAAAAJ&hl=en) \
 
 <style>
   .fa-twitter {
