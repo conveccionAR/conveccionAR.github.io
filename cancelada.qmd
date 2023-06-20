@@ -24,7 +24,7 @@ Ciudad Autónoma de Buenos Aires \
 
 <i class="bi bi-inbox"></i>: maite.cancelada@cima.fcen.uba.ar \
 
-<h5>Biografía</h5>
+<h2>Bio</h2>
 
 <h5>Educación</h5>
 

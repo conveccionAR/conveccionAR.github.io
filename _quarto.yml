@@ -18,11 +18,8 @@ website:
         text: Proyectos
 
   sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Links de interes"
-        url: pdf
+    - qmd: sidebar.qmd
+      dock: true
 
 format:
   html:
