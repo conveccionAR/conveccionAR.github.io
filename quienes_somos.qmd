@@ -4,7 +4,7 @@ title: "Grupo de Investigación"
 
 <br/>
 
-![ACA VA FOTO GRUPAL! ](images/test.jpeg)
+![ACA VA FOTO GRUPAL! ](images/oficina.png)
 
 * [Dra. Paola Salio](salio.qmd)
 * [Dra. Vito Galligani](galligani.qmd)
