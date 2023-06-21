@@ -7,7 +7,8 @@ Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
 
-[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=6iA-FKEAAAAJ&hl=es&oi=ao) \
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=6iA-FKEAAAAJ&hl=es&oi=ao) <i class="bi bi-inbox"></i>: hernan.bechis@cima.fcen.uba.ar \
+
 
 <style>
   .fa-twitter {
@@ -22,7 +23,6 @@ Ciudad Autónoma de Buenos Aires \
     font-size: 25px;
   }
 </style>
-<i class="bi bi-inbox"></i>: hernan.bechis@cima.fcen.uba.ar \
 
 <h2>Bio</h2>
 Lic. en Ciencias de la Atmósfera (FCEN–UBA) \
