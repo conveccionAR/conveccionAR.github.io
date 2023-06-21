@@ -4,8 +4,9 @@ title: "Grupo de Investigación"
 
 <br/>
 
-![](images/oficina.png){width=300} \
+![](images/oficina.png){width=800} \
 
+Somos:
 * [Dra. Paola Salio](salio.qmd)
 * [Dra. Vito Galligani](galligani.qmd)
 * [Dr. Hernan Bechis](bechis.qmd)
