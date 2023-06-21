@@ -4,9 +4,9 @@ title: "Grupo de Investigación"
 
 <br/>
 
-![](images/oficina.png){width=800} \
+![](images/oficina.png){width=700} \
 
-Somos:
+Somos: \ 
 
 * [Dra. Paola Salio](salio.qmd)
 * [Dra. Vito Galligani](galligani.qmd)
