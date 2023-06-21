@@ -6,7 +6,8 @@ Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
 Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
-[{{< ai google-scholar   >}}</i>](https://scholar.google.com) \
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?hl=en&user=PuD-wywAAAAJ
+) \
 
 <style>
   .fa-twitter {
@@ -26,8 +27,12 @@ Ciudad Autónoma de Buenos Aires \
 
 <h2>Bio</h2>
 
+El conocimiento científico me apasiona, en particular la observación con tecnología satelital y la programación. Como Meteoróloga, me interesa el estudio de las tormentas severas y su relación con los fenómenos que pueden afectar a la población. En mi trabajo de investigación de doctorado, he avanzado en el análisis de tormentas con presencia de topes emergentes (overshooting tops) en Sudamérica usando imagenes del GOES-16.
+
 <h5>Educación</h5>
 
+Licenciada en Ciencias de la Atmósfera (FCEN - UBA)
+Becaria doctoral en Ciencias de la Atmósfera - (CONICET - UBA)
 
 
 

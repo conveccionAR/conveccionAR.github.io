@@ -7,7 +7,7 @@ Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
 
-[{{< ai google-scholar   >}}</i>](https://scholar.google.com) \
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=6iA-FKEAAAAJ&hl=es&oi=ao) \
 
 <style>
   .fa-twitter {
