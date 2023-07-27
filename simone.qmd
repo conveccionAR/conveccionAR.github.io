@@ -7,7 +7,8 @@ Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
 Ciudad Autónoma de Buenos Aires \
 
 [{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?hl=en&user=PuD-wywAAAAJ
-) \
+) <i class="bi bi-inbox"></i>: ines.simone@cima.fcen.uba.ar \
+
 
 <style>
   .fa-twitter {
@@ -23,7 +24,6 @@ Ciudad Autónoma de Buenos Aires \
   }
 </style>
 
-<i class="bi bi-inbox"></i>: ines.simone@cima.fcen.uba.ar \
 
 <h2>Bio</h2>
 
