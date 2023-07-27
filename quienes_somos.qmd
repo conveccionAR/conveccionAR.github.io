@@ -2,15 +2,11 @@
 title: "Grupo de Investigación"
 ---
 
-<<<<<<< HEAD
 ![](images/portada2)
 =======
 <br/>
 
-![](images/oficina.png){width=700} \
-
 Somos: \ 
->>>>>>> b66dcbcb36c155bade293410cfda1863f7b14dc6
 
 * [Dra. Paola Salio](salio.qmd)
 * [Dra. Vito Galligani](galligani.qmd)
