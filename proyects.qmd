@@ -16,26 +16,25 @@ SATREPS (Science and Technology Research Partnership for Sustainable Development
 
 El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral hidrometeorológico y a corto plazo para la detección temprana de eventos de inundaciones repentinas asociadas a lluvias intensas con un foco particular en aquellos eventos que ocurren en ciudades densamente pobladas. El proyecto contempla una colaboración estrecha entre instituciones de investigación en Japón y Organismos científico-técnicos en Argentina para el desarrollo de soluciones y herramientas novedosas.
 
-
-
+\
 
 ::: {.grid}
 
 ::: {.g-col-4}
-![](images/basededatos.png)
+![](images/logo_base_color.png)
 :::
 
 ::: {.g-col-8}
 <h5>Base de datos de tormentas severas en Sudamérica</h5>
 Conformación y mantenimiento de una base de datos de reportes de fenómenos severos Sudamericana: Diferentes aplicaciones meteorológicas, como el estudio y la caracterización de la  convección húmeda en la región, o la verificación de herramientas de detección de fenómenos severos, así como también ramas más operacionales como la gestión de riesgos meteorológicos, demandan como insumo la creación y el mantenimiento de una base de datos regional de reportes de tiempo severo. Contar con una base de datos de calidad y estandarizada a nivel regional es esencial para comprender las condiciones atmosféricas regionales que favorecen los fenómenos meteorológicos extremos y construir sistemas robustos de alerta temprana en un contexto de adaptación al cambio climático.
 
+[https://samhi.cima.fcen.uba.ar/](https://samhi.cima.fcen.uba.ar)
 
 :::
 
 :::
 
-
-
+\
 
 ::: {.grid}
 
@@ -58,11 +57,10 @@ Junio 2018 – Abril 2019
 :::
 
 RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional de Ciencias (NSF), la Administración Nacional Oceanográfica y Atmosférica (NOAA), la Administración Nacional de Aeronáutica y del Espacio (NASA), el Servicio Meteorológico Nacional (SMN), el Ministerio de Education, Ciencia y Tecnología de Argentina (MinECyT), la Provincia de Córdoba, Brasil (INPE, CNPq y FAPESP) e INVAP S.E., para observar las tormentas convectivas que producen eventos meteorológicos de alto impacto al pie de los Andes en Argentina.
-
 CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
 
 
-
+\
 
 
 ::: {.grid}
