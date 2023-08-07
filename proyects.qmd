@@ -36,32 +36,6 @@ Conformación y mantenimiento de una base de datos de reportes de fenómenos sev
 
 \
 
-::: {.grid}
-
-::: {.g-col-4}
-![](images/relampago_logo.png)
-:::
-
-::: {.g-col-8}
-<h5>RELAMPAGO-CACTI</h5>
-
-RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations) 
-
-CACTI (Clouds, Aerosols, and Complex Terrain Interactions)
-
-Junio 2018 – Abril 2019
-
-[https://sites.google.com/illinois.edu/relampago](https://sites.google.com/illinois.edu/relampago/home)
-:::
-
-:::
-
-RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional de Ciencias (NSF), la Administración Nacional Oceanográfica y Atmosférica (NOAA), la Administración Nacional de Aeronáutica y del Espacio (NASA), el Servicio Meteorológico Nacional (SMN), el Ministerio de Education, Ciencia y Tecnología de Argentina (MinECyT), la Provincia de Córdoba, Brasil (INPE, CNPq y FAPESP) e INVAP S.E., para observar las tormentas convectivas que producen eventos meteorológicos de alto impacto al pie de los Andes en Argentina.
-CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
-
-
-\
-
 
 ::: {.grid}
 ::: {.g-col-4}
@@ -88,7 +62,30 @@ Information was collected through a survey answered by the National Meteorologic
 
 [https://wwrp-nowcastingcapabilities.com/about-us/](https://wwrp-nowcastingcapabilities.com/about-us/)
 
+\
 
+::: {.grid}
+
+::: {.g-col-4}
+![](images/relampago_logo.png)
+:::
+
+::: {.g-col-8}
+<h5>RELAMPAGO-CACTI</h5>
+
+RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations) 
+
+CACTI (Clouds, Aerosols, and Complex Terrain Interactions)
+
+Junio 2018 – Abril 2019
+
+[https://sites.google.com/illinois.edu/relampago](https://sites.google.com/illinois.edu/relampago/home)
+:::
+
+:::
+
+RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional de Ciencias (NSF), la Administración Nacional Oceanográfica y Atmosférica (NOAA), la Administración Nacional de Aeronáutica y del Espacio (NASA), el Servicio Meteorológico Nacional (SMN), el Ministerio de Education, Ciencia y Tecnología de Argentina (MinECyT), la Provincia de Córdoba, Brasil (INPE, CNPq y FAPESP) e INVAP S.E., para observar las tormentas convectivas que producen eventos meteorológicos de alto impacto al pie de los Andes en Argentina.
+CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
 
 
 
