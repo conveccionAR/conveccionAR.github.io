@@ -1,6 +1,41 @@
----
-title: "Grupo de Investigación"
----
+::: {.content-visible when-profile="english"}
+
+<h5>Research Team</h5>
+
+![](images/portada2)
+=======
+<br/>
+
+We are: \
+
+* [Prof. Paola Salio](salio.qmd)
+* [PhD Vito Galligani](galligani.qmd)
+* [PhD Hernan Bechis](bechis.qmd)
+* [PhD Maite Cancelada](cancelada.qmd)
+* [Msci. Ines Simone](simone.qmd)
+* Agustin Granato (DCAO Msci student)
+
+We also have a strong collaboration with the reasearch teams lead by, 
+
+* Prof. Juan José Ruiz (CIMA-DCAO-FCEN-UBA)
+* Prof. Pablo Negri (DC-FCEN-UBA)
+* The Argentine National Weather Service (SMN) 
+* Prof. Maximiliano Viale IANIGLIA (CCT-Mendoza)
+* Prof. Vanina Fiorini (Laboratorio de Ecología y Comportamiento Animal, EGE-FCEN-UBA)
+* [Prof. Steve Nesbitt UIUC](https://swnesbitt.com)
+* [Prof. Catherine Prigent (LERMA, L’observatoire de Paris)](http://aramis.obspm.fr/~prigent/publication.html)
+* [PhD Die Wang (DOE)](https://www.bnl.gov/staff/diewang)
+* Prof. Marisa Gassman (DCAO-UBA-CONICET)
+* Prof. Carlos Marcelo Garcia (UNC) and the MATTEO project [https://sites.google.com/view/proyectomatteo/](https://sites.google.co
+m/view/proyectomatteo/)
+* Prof. Gabriela Nicora (CITEDEF-CONICET-UNLP) and the GeoRayos project [https://georayos.citedef.gob.ar](https://georayos.citede
+f.gob.ar)
+
+:::
+
+::: {.content-visible when-profile="spanish"}
+
+<h5>Grupo de Investigación</h5>
 
 ![](images/portada2)
 =======
@@ -30,3 +65,6 @@ A su vez, tenemos una estrecha colaboración con los grupos de investigación li
 m/view/proyectomatteo/)
 * Dra. Gabriela Nicora (CITEDEF-CONICET-UNLP) y el Proyecto GeoRayos [https://georayos.citedef.gob.ar](https://georayos.citede
 f.gob.ar)
+
+:::
+

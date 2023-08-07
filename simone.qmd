@@ -1,4 +1,50 @@
-<h1>Lic. Inés Simone</h1>
+::: {.content-visible when-profile="english"}
+
+<h1>Inés Simone</h1>
+
+![](images/simone.jpeg){width=250} \
+\
+Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
+Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
+Ciudad Autónoma de Buenos Aires \
+
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?hl=en&user=PuD-wywAAAAJ
+) <i class="bi bi-inbox"></i>: ines.simone@cima.fcen.uba.ar \
+
+
+<style>
+  .fa-twitter {
+    color: #0077CC;
+    font-size: 25px;
+  }
+</style>
+
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
+
+
+<h2>Bio</h2>
+I am passionate about scientific knowledge, in particular satellite observation, technology and programming. As a meteorologist, I am interested in the study of severe storms and their relationship with phenomena that can affect the population. In my PhD research work, I have advanced in the analysis of storms with the presence of overshooting tops in South America using GOES-16 imagery.
+
+<h5>Education</h5>
+MSci. Atmospheric Sciences (FCEN-UBA) \
+PhD. student Atmospheric Sciences (FCEN-UBA) \
+\
+
+:::
+
+
+
+:::
+
+
+::: {.content-visible when-profile="spanish"}
+
+<h1>Inés Simone</h1>
 
 ![](images/simone.jpeg){width=250} \
 \
@@ -30,9 +76,11 @@ Ciudad Autónoma de Buenos Aires \
 El conocimiento científico me apasiona, en particular la observación con tecnología satelital y la programación. Como Meteoróloga, me interesa el estudio de las tormentas severas y su relación con los fenómenos que pueden afectar a la población. En mi trabajo de investigación de doctorado, he avanzado en el análisis de tormentas con presencia de topes emergentes (overshooting tops) en Sudamérica usando imagenes del GOES-16.
 
 <h5>Educación</h5>
+Licenciada en Ciencias de la Atmósfera (FCEN - UBA)\
+Becaria doctoral en Ciencias de la Atmósfera - (CONICET - UBA)\
 
-Licenciada en Ciencias de la Atmósfera (FCEN - UBA)
-Becaria doctoral en Ciencias de la Atmósfera - (CONICET - UBA)
+\
 
+:::
 
 

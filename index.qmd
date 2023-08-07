@@ -1,10 +1,18 @@
----
-title: "CHumPI: Conveción HUMeda Profunda y sus IMpactos en Sudamerica"
-crossref:
-  title-delim: "**.**"
-execute:
-  echo: false  
----
+::: {.content-visible when-profile="english"}
+
+<h5>About Us</h5>
+
+We are a research group of the Sea and Atmosphere Research Centre (CIMA, CONICET-UBA), the French-Argentine Institute for Climate Studies and its Impacts (IFAECI, CNRS-CONICET-UBA), and the Department of Atmospheric and Ocean Sciences (DCAO, UBA). We are based in Buenos Aires, Argentina.
+
+<h5>Research Interests</h5>
+
+* To understand the processes that initiate, organise and maintain deep moist convection in Southeast South America, with special emphasis on extreme convection events associated with high impact weather events, i.e. hail, severe gusts and flash floods.
+* Improve the characterisation and detection of deep moist convection.
+* Develop innovative approaches to spatio-temporal data analysis using in situ observations (observation campaigns), remote sensing (satellite instruments and weather radars), statistical techniques, artificial intelligence techniques and numerical modelling.
+
+:::
+
+::: {.content-visible when-profile="spanish"}
 
 <h5>¿Quiénes somos?</h5>
 
@@ -16,12 +24,17 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 * Mejorar la caracterización y la detección de la convección húmeda profunda.
 * Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
 
+:::
+
+
 ::: {layout-ncol=2}
 
 ![](images/radarZ.jpeg){height=1px}
 
 
 ![](images/satellite.GOES-16.201811101630.2km_ch13_clean_longwave-ir.jpg)
+
+:::
 
 :::
 

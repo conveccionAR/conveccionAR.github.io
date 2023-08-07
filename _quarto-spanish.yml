@@ -1,0 +1,36 @@
+project:
+  title: 'CHumPI: Conveción HUMeda Profunda y sus IMpactos en Sudamerica'
+  output-dir: ./docs/spa
+  resources:
+          - "images/equipo/*"
+
+website:
+  navbar:
+    right:
+      - href: quienes_somos.qmd
+        text: Quienes somos
+      - href: trabajos.qmd
+        text: Trabajos realizados 
+      - href: proyects.qmd
+        text: Proyectos
+      - href: ../en
+        text: English
+      - href: ../
+        text: Español
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Links de interes"
+        contents:
+          - sidebar.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

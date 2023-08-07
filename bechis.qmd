@@ -1,3 +1,46 @@
+::: {.content-visible when-profile="english"}
+
+<h1>Hernan Bechis</h1>
+
+![](images/bechis.png){width=250} \
+\
+Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
+Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408
+Ciudad Autónoma de Buenos Aires \
+
+
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=6iA-FKEAAAAJ&hl=es&oi=ao) <i class="bi bi-inbox"></i>: hernan.bechis@cima.fcen.uba.ar \
+
+
+<style>
+  .fa-twitter {
+    color: #0077CC;
+    font-size: 25px;
+  }
+</style>
+
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
+
+<h2>Bio</h2>
+I specialise in topics related to synoptic and mesoscale meteorology.  During my PhD thesis I studied the processes associated with the occurrence and formation of dry lines in Argentina. I am currently studying the mechanisms of initiation and organization of deep moist convection in northern Patagonia and the southern Pampean Region. I am also interested in the analysis of the conditions associated with the development of severe weather in Argentina and South America.
+
+<h5>Education</h5>
+MSci. Atmospheric Sciences (FCEN–UBA) \
+PhD. in Atmospheric Sciences (FCEN–UBA) \
+Postdoc CIMA-UBA-CONICET \
+
+\ 
+
+
+:::
+
+::: {.content-visible when-profile="spanish"}
+
 <h1>Dr. Hernan Bechis</h1>
 
 ![](images/bechis.png){width=250} \
@@ -35,4 +78,9 @@ Me especializo en temas relacionados con la meteorología sinóptica y mesoescal
 Lic. en Ciencias de la Atmósfera (FCEN–UBA) \
 Dr. de la UBA con especialización en Ciencias de la Atmósfera (FCEN–UBA) \
 Postdoc CIMA-CONICET \
+
+
+:::
+
+
 

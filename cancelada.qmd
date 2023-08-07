@@ -1,3 +1,48 @@
+::: {.content-visible when-profile="english"}
+
+<h1>Maite Cancelada</h1>
+
+![](images/cancelada.jpeg){width=250} \
+\
+Becaria Postdoctoral CONICET en el Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA)
+Jefe de Trabajos Prácticos con dedicación exclusiva en el Departamento de Ciencias de la Atmósfera y los Océanos (DCAO-FCEN-UBA)
+Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA)
+Departamento de Ciencias de la Atmósfera y los Océanos.
+Ciudad Universitaria - Edificio 0+Infinito - Oficina 2408 Ciudad Autónoma de Buenos Aires
+
+[{{< ai google-scholar   >}}</i>](https://scholar.google.com/citations?user=p1KJgZkAAAAJ&hl=en
+) <i class="bi bi-inbox"></i>: maite.cancelada@cima.fcen.uba.ar \
+
+
+<style>
+  .fa-twitter {
+    color: #0077CC;
+    font-size: 25px;
+  }
+</style>
+
+<style>
+  .ai-google-scholar {
+    color: #000000;
+    font-size: 25px;
+  }
+</style>
+
+<h2>Bio</h2>
+During my PhD thesis I specialised in the study of the impact of aerosols on the intensity of deep moist convection over southeastern South America using observational data and high-resolution numerical modelling. Currently, my research focuses on the development and validation of precipitation estimates from dual polarisation radar observations. On the other hand, my teaching activities include the Remote Sensing (satellite and radar) and Mesoscale Severe Phenomena courses in the Atmospheric Sciences Degree of the Faculty of Exact and Natural Sciences of the University of Buenos Aires.
+
+<h5>Education</h5>
+MSci. Atmospheric Sciences (FCEN-UBA) \
+PhD. Atmospheric Sciences (FCEN-UBA) \
+Postdoc CONICET (CIMA, CONICET-UBA) \
+\ 
+
+:::
+
+
+
+::: {.content-visible when-profile="spanish"}
+
 <h1>Dra. Maite Cancelada</h1>
 
 ![](images/cancelada.jpeg){width=250} \
@@ -32,10 +77,9 @@ Durante mi tesis de doctorado me especialicé en el estudio del impacto de los a
 
 <h5>Educación</h5>
 
-Lic. en Ciencias de la Atmósfera (FCEN-UBA)
+Lic. en Ciencias de la Atmósfera (FCEN-UBA)\
+Dra. de la UBA con especialización en Ciencias de la Atmósfera (FCEN-UBA)\
+Postdoc CONICET (CIMA, CONICET-UBA)\ 
+\ 
 
-Dra. de la UBA con especialización en Ciencias de la Atmósfera (FCEN-UBA)
-
-Postdoc CONICET (CIMA, CONICET-UBA)
-
-
+:::

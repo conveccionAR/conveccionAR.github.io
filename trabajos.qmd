@@ -1,5 +1,15 @@
----
-title: "TRABAJOS REALIZADOS"
----
+::: {.content-visible when-profile="english"}
+
+<h5>Publications</h5>
+
+Find our latest publications [here](https://scholar.google.com/citations?hl=en&user=r3uNsO8AAAAJ&sortby=pubdate&view_op=list_works&authuser=7&gmla=AMpAcmQoos5VGHR-mBFvIFs0_yMpVkxnjxCyQ3jWROPHEZ7Hl2UjBMi2JZcsGhK1DhXaiPfgcCkUfqlOJ5rJoEsy)
+
+:::
+
+::: {.content-visible when-profile="spanish"}
+
+<h5>Trabajos realizados</h5>
 
 Encontra nuestras ultimas publicaciones [aquí](https://scholar.google.com/citations?hl=en&user=r3uNsO8AAAAJ&sortby=pubdate&view_op=list_works&authuser=7&gmla=AMpAcmQoos5VGHR-mBFvIFs0_yMpVkxnjxCyQ3jWROPHEZ7Hl2UjBMi2JZcsGhK1DhXaiPfgcCkUfqlOJ5rJoEsy)
+
+:::

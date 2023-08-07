@@ -1,0 +1,40 @@
+---
+title: "CHumPI: Deep Moist Convection and its Impacts in South America"
+crossref:
+  title-delim: "**.**"
+execute:
+  echo: false  
+---
+
+<h5>About Us</h5>
+
+We are a research group of the Sea and Atmosphere Research Centre (CIMA, CONICET-UBA), the French-Argentine Institute for Climate Studies and its Impacts (IFAECI, CNRS-CONICET-UBA), and the Department of Atmospheric and Ocean Sciences (DCAO, UBA). We are based in Buenos Aires, Argentina. 
+
+<h5>Research Interests</h5>
+
+* To understand the processes that initiate, organise and maintain deep moist convection in Southeast South America, with special emphasis on extreme convection events associated with high impact weather events, i.e. hail, severe gusts and flash floods.
+* Improve the characterisation and detection of deep moist convection.
+* Develop innovative approaches to spatio-temporal data analysis using in situ observations (observation campaigns), remote sensing (satellite instruments and weather radars), statistical techniques, artificial intelligence techniques and numerical modelling.
+
+
+::: {layout-ncol=2}
+
+![](images/radarZ.jpeg){height=1px}
+
+
+![](images/satellite.GOES-16.201811101630.2km_ch13_clean_longwave-ir.jpg)
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/embajada.jpeg)
+
+![](images/granizo.png)
+
+![](images/lucho_pilus.jpeg)
+
+:::
+
+![](images/RELAMPAGO_EQUIPO.webp){fig-align="center"}

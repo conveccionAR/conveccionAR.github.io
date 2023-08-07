@@ -1,3 +1,6 @@
+::: {.content-visible when-profile="english"}
+
+
 ::: {.grid}
 
 ::: {.g-col-4}
@@ -14,8 +17,7 @@ SATREPS (Science and Technology Research Partnership for Sustainable Development
 
 :::
 
-El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral hidrometeorológico y a corto plazo para la detección temprana de eventos de inundaciones repentinas asociadas a lluvias intensas con un foco particular en aquellos eventos que ocurren en ciudades densamente pobladas. El proyecto contempla una colaboración estrecha entre instituciones de investigación en Japón y Organismos científico-técnicos en Argentina para el desarrollo de soluciones y herramientas novedosas.
-
+This project will assist in reducing risks associated with weather and flood disasters in the target urban areas through the development of sophisticated weather observation and forecasting systems and the dissemination of flood and inundation forecasting information to residents in Buenos Aires and Córdoba. 
 \
 
 ::: {.grid}
@@ -25,8 +27,9 @@ El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral 
 :::
 
 ::: {.g-col-8}
-<h5>Base de datos de tormentas severas en Sudamérica</h5>
-Conformación y mantenimiento de una base de datos de reportes de fenómenos severos Sudamericana: Diferentes aplicaciones meteorológicas, como el estudio y la caracterización de la  convección húmeda en la región, o la verificación de herramientas de detección de fenómenos severos, así como también ramas más operacionales como la gestión de riesgos meteorológicos, demandan como insumo la creación y el mantenimiento de una base de datos regional de reportes de tiempo severo. Contar con una base de datos de calidad y estandarizada a nivel regional es esencial para comprender las condiciones atmosféricas regionales que favorecen los fenómenos meteorológicos extremos y construir sistemas robustos de alerta temprana en un contexto de adaptación al cambio climático.
+<h5>South American Severe Weather reports database</h5>
+
+Creation and maintenance of a South American severe weather reports database: Different meteorological applications, such as the study and characterisation of deep moist convection in the region, or the verification of severe weather detection tools, as well as more operational applications, such as meteorological risk management, require the creation and maintenance of a regional severe weather reports database as an input. A regionally standardised and quality-controlled database is essential to understand the regional atmospheric conditions that favour extreme weather events and to build robust early warning systems in a context of climate change adaptation.
 
 [https://samhi.cima.fcen.uba.ar/](https://samhi.cima.fcen.uba.ar)
 
@@ -77,6 +80,99 @@ RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscal
 
 CACTI (Clouds, Aerosols, and Complex Terrain Interactions)
 
+June 2018 – April 2019
+
+[https://sites.google.com/illinois.edu/relampago](https://sites.google.com/illinois.edu/relampago/home)
+:::
+
+:::
+
+RELAMPAGO was a major field campaign conducted in the Córdoba and Mendoza provinces in Argentina and western Rio Grande do Sul State in Brazil in 2018–19 that involved more than 200 scientists and students from the United States, Argentina, and Brazil. This campaign was motivated by the physical processes and societal impacts of deep convection that frequently initiates in this region, often along the complex terrain of the Sierras de Córdoba and Andes, and often grows rapidly upscale into dangerous storms that impact society. Observed storms during the experiment produced copious hail, intense flash flooding, extreme lightning flash rates, and other unusual lightning phenomena, but few tornadoes. The five distinct scientific foci of RELAMPAGO—convection initiation, severe weather, upscale growth, hydrometeorology, and lightning and electrification—are described, as are the deployment strategies to observe physical processes relevant to these foci. The campaign’s international cooperation, forecasting efforts, and mission planning strategies enabled a successful data collection effort. In addition, the legacy of RELAMPAGO in South America, including extensive multinational education, public outreach, and social media data gathering associated with the campaign, is summarized. Similarly, CACTI was RELAMPAGO's sister project, funded by the U.S.A Department of Energy (DOE). CACTI stands for 'Clouds, Aerosols, Complex Terrain Interactions' campaign - which took an integrated and expansive observational approach. 
+
+:::
+
+::: {.content-visible when-profile="spanish"}
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/prevenir.png)
+:::
+
+::: {.g-col-8}
+<h5>PREVENIR-SATREPS</h5>
+
+SATREPS (Science and Technology Research Partnership for Sustainable Development) Proyecto Pronóstico y Alerta de Eventos de Inundaciones Repentinas (PREVENIR)
+
+[https://prevenir.smn.gob.ar/](https://prevenir.smn.gob.ar/)
+:::
+
+:::
+
+El objetivo del proyecto es el desarrollo de un sistema de pronóstico integral hidrometeorológico y a corto plazo para la detección temprana de eventos de inundaciones repentinas asociadas a lluvias intensas con un foco particular en aquellos eventos que ocurren en ciudades densamente pobladas. El proyecto contempla una colaboración estrecha entre instituciones de investigación en Japón y Organismos científico-técnicos en Argentina para el desarrollo de soluciones y herramientas novedosas.
+
+\
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/logo_base_color.png)
+:::
+
+::: {.g-col-8}
+<h5>Base de datos de tormentas severas en Sudamérica</h5>
+
+Conformación y mantenimiento de una base de datos de reportes de fenómenos severos Sudamericana: Diferentes aplicaciones meteorológicas, como el estudio y la caracterización de la  convección húmeda en la región, o la verificación de herramientas de detección de fenómenos severos, así como también ramas más operacionales como la gestión de riesgos meteorológicos, demandan como insumo la creación y el mantenimiento de una base de datos regional de reportes de tiempo severo. Contar con una base de datos de calidad y estandarizada a nivel regional es esencial para comprender las condiciones atmosféricas regionales que favorecen los fenómenos meteorológicos extremos y construir sistemas robustos de alerta temprana en un contexto de adaptación al cambio climático.
+
+[https://samhi.cima.fcen.uba.ar/](https://samhi.cima.fcen.uba.ar)
+
+:::
+
+:::
+
+\
+
+
+::: {.grid}
+::: {.g-col-4}
+![](images/wwrp.png)
+:::
+
+::: {.g-col-8}
+
+\n
+\n
+
+<h5>NMR-SERA</h5>
+
+The Nowcasting and Mesoscale Research (NMR) and the Societal Economic Research Applications (SERA) Working Groups from the WMO World Weather Research Programme (WWRP) are working together to evaluate nowcasting systems available in the different WMO Regional Associations, with a particular focus on developing countries, and types of warnings generated on severe weather as well as the way information is communicated to decision-makers and users. This activity is concentrated on evaluating techniques applied to develop severe weather warning systems on phenomena such as hail, strong winds, thunderstorms and tornadoes in developing countries.
+
+:::
+
+:::
+
+NMR WG and SERA WG stress the importance of interdisciplinary research as a fundamental tool to evaluate and understand the needs and requirements of both the scientific community and end-users of warnings.
+
+The main objectives are to evaluate access to radar, satellite and lightning data, nowcasting techniques and severe weather warning systems available in developing countries as well as promote a set of best practices in order to improve severe weather warning systems.
+Information was collected through a survey answered by the National Meteorological and Hydrological Services of each country in different WMO Regional Associations during 2021 and 2022, and with support of EUMETNET Nowcasting Programme.
+
+[https://wwrp-nowcastingcapabilities.com/about-us/](https://wwrp-nowcastingcapabilities.com/about-us/)
+
+\
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/relampago_logo.png)
+:::
+
+::: {.g-col-8}
+<h5>RELAMPAGO-CACTI</h5>
+
+RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations)
+
+CACTI (Clouds, Aerosols, and Complex Terrain Interactions)
+
 Junio 2018 – Abril 2019
 
 [https://sites.google.com/illinois.edu/relampago](https://sites.google.com/illinois.edu/relampago/home)
@@ -85,8 +181,10 @@ Junio 2018 – Abril 2019
 :::
 
 RELAMPAGO es un proyecto de colaboración financiado por la Fundación Nacional de Ciencias (NSF), la Administración Nacional Oceanográfica y Atmosférica (NOAA), la Administración Nacional de Aeronáutica y del Espacio (NASA), el Servicio Meteorológico Nacional (SMN), el Ministerio de Education, Ciencia y Tecnología de Argentina (MinECyT), la Provincia de Córdoba, Brasil (INPE, CNPq y FAPESP) e INVAP S.E., para observar las tormentas convectivas que producen eventos meteorológicos de alto impacto al pie de los Andes en Argentina.
-CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.  
+CACTI es un proyecto financiado por el Departamento de Energía de los EE. UU. para estudiar las nubes orográficas y su representación en modelos de escala múltiple.
 
 
+
+:::
 
 
