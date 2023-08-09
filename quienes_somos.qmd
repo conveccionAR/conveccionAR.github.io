@@ -14,6 +14,8 @@ We are: \
 * [PhD Maite Cancelada](cancelada.qmd)
 * [Msci. Ines Simone](simone.qmd)
 * Agustin Granato (DCAO Msci student)
+* Esteban Garruti (DCAO Msci student)
+
 
 We also have a strong collaboration with the reasearch teams lead by, 
 
@@ -49,6 +51,7 @@ Somos: \
 * [Dra. Maite Cancelada](cancelada.qmd)
 * [Lic. Ines Simone](simone.qmd)
 * Agustin Granato (Estudiante DCAO)
+* Esteban Garruti (Estudiante DCAO)
 
 A su vez, tenemos una estrecha colaboración con los grupos de investigación liderados por
 
