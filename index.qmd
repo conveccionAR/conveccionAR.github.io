@@ -16,11 +16,11 @@ We are a research group of the Sea and Atmosphere Research Centre (CIMA, CONICET
 
 <h5>¿Quiénes somos?</h5>
 
-Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos (IFAECI, CNRS-CONICET-UBA), y del Departamento de Ciencias de la Atmósfera y los Océanos (DCAO, UBA)
+Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA), Instituto Franco-Argentino sobre el Clima y sus Impactos (IFAECI, CNRS-CONICET-IRD-UBA), y del Departamento de Ciencias de la Atmósfera y los Océanos (DCAO, UBA)
 
-<h5>Temas de interes</h5>
+<h5>Temas de interés</h5>
 
-* Entender los procesos que inician, organizan y mantienen a la convección húmeda profunda en el Sudeste de Sudamérica, con especial énfasis en eventos de convección extrema asociados a eventos de alto impacto, es decir a la presencia de granizo, ráfagas severas e inundaciones repentinas.
+* Entender los procesos que inician, organizan y mantienen la convección húmeda profunda en el Sudeste de Sudamérica, con especial énfasis en eventos de convección extrema asociados a eventos de alto impacto, es decir a la presencia de granizo, ráfagas severas e inundaciones repentinas.
 * Mejorar la caracterización y la detección de la convección húmeda profunda.
 * Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
 
