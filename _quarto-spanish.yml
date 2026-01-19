@@ -1,6 +1,6 @@
 project:
   title: 'CHumPI: Convección HÚMeda Profunda y sus IMpactos en Sudamérica'
-  output-dir: ./docs/spa
+  output-dir: docs/spa
   resources:
           - "images/equipo/*"
 
@@ -15,10 +15,10 @@ website:
         text: Tesis 
       - href: proyects.qmd
         text: Proyectos
-      - href: ../docs/en
-        text: English
-      - href: ../
-        text: Español
+      - text: English
+        href: ../en/index.html # Points to the rendered English home
+      - text: Español
+        href: index.html
 
   sidebar:
     style: "docked"
