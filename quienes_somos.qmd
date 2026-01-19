@@ -13,24 +13,20 @@ We are: \
 * [PhD Hernan Bechis](bechis.qmd)
 * [PhD Maite Cancelada](cancelada.qmd)
 * [Msci. Ines Simone](simone.qmd)
-* Agustin Granato (DCAO Msci student)
-* Esteban Garuti (DCAO Msci student)
-
+* [Msci. Esteban Semino](semino.qmd)
 
 We also have a strong collaboration with the reasearch teams lead by, 
 
 * Prof. Juan José Ruiz (CIMA-DCAO-FCEN-UBA)
 * Prof. Pablo Negri (DC-FCEN-UBA)
+* Prof. Gabriela Nicora (CITEDEF-CONICET-UNLP) and the GeoRayos project [https://georayos.citedef.gob.ar/](https://georayos.citedef.gob.ar/)
 * [Dr. Lucho Vidal  (SMN)](vidal.qmd)
+* Prof. Carlos Marcelo Garcia (UNC) and the MATTEO project [https://sites.google.com/view/proyectomatteo/](https://sites.google.com/view/proyectomatteo/)
 * The Argentine National Weather Service (SMN) 
 * Prof. Vanina Fiorini (Laboratorio de Ecología y Comportamiento Animal, EGE-FCEN-UBA)
 * [Prof. Steve Nesbitt UIUC](https://climas.illinois.edu/directory/profile/snesbitt)
 * [Prof. Catherine Prigent (LERMA, L’observatoire de Paris)](http://aramis.obspm.fr/~prigent/publication.html)
-* [PhD Die Wang (DOE)](https://www.bnl.gov/staff/diewang)
 * Prof. Marisa Gassman (DCAO-UBA-CONICET)
-* Prof. Carlos Marcelo Garcia (UNC) and the MATTEO project [https://sites.google.com/view/proyectomatteo/](https://sites.google.co
-m/view/proyectomatteo/)
-* Prof. Gabriela Nicora (CITEDEF-CONICET-UNLP) and the GeoRayos project [https://georayos.citedef.gob.ar/](https://georayos.citedef.gob.ar/)
 
 :::
 
@@ -49,23 +45,21 @@ Somos: \
 * [Dr. Hernan Bechis](bechis.qmd)
 * [Dra. Maite Cancelada](cancelada.qmd)
 * [Lic. Ines Simone](simone.qmd)
-* Agustin Granato (Estudiante DCAO)
-* Esteban Garuti (Estudiante DCAO)
+* [Lic. Esteban Semino](semino.qmd)
 
 A su vez, tenemos una estrecha colaboración con los grupos de investigación liderados por
 
 * Dr. Juan José Ruiz (CIMA-DCAO-FCEN-UBA)
 * Dr. Pablo Negri (DC-FCEN-UBA)
-* El Departamento de Productos de Modelación Ambiental y de Sensores Remotos (Servicio Meteorologico Nacional, SMN)
+* Dra. Gabriela Nicora (CITEDEF-CONICET-UNLP) y el Proyecto GeoRayos [https://georayos.citedef.gob.ar](https://georayos.citedef.gob.ar)
 * [Dr. Lucho Vidal  (SMN)](vidal.qmd)
+* Dr. Carlos Marcelo Garcia (UNC) y el Proyecto MATTEO [https://sites.google.com/view/proyectomatteo/](https://sites.google.co
+m/view/proyectomatteo/)
+* El Departamento de Productos de Modelación Ambiental y de Sensores Remotos (Servicio Meteorologico Nacional, SMN)
 * Dra. Vanina Fiorini (Laboratorio de Ecología y Comportamiento Animal, EGE-FCEN-UBA)
 * [Dr. Steve Nesbitt UIUC](https://climas.illinois.edu/directory/profile/snesbitt)
 * [Dr. Catherine Prigent (LERMA, L’observatoire de Paris)](http://aramis.obspm.fr/~prigent/publication.html)
-* [Dr. Die Wang (DOE)](https://www.bnl.gov/staff/diewang)
 * Dra. Marisa Gassman (DCAO-UBA-CONICET)
-* Dr. Carlos Marcelo Garcia (UNC) y el Proyecto MATTEO [https://sites.google.com/view/proyectomatteo/](https://sites.google.co
-m/view/proyectomatteo/)
-* Dra. Gabriela Nicora (CITEDEF-CONICET-UNLP) y el Proyecto GeoRayos [https://georayos.citedef.gob.ar](https://georayos.citedef.gob.ar)
 
 :::
 

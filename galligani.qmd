@@ -2,7 +2,7 @@
 
 <h1>Vito Galligani</h1>
 
-![](images/galligani.png){width=250} \
+![](images/galligani.jpeg){width=250} \
 \
 Researcher (CAT I/V) - CONICET \
 Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \
@@ -47,7 +47,7 @@ Postdoc CIMA-UBA-CONICET \
 
 <h1>Dra. Vito Galligani</h1>
 
-![](images/galligani.png){width=250} \
+![](images/galligani.jpeg){width=250} \
 \
 Investigadora Asistente CONICET \
 Centro Investigaciones del Mar y la Atmósfera (CIMA, CONICET-UBA) \

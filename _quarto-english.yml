@@ -1,6 +1,6 @@
 project:
   title: 'CHumPI: Deep moist convection and its impacts in South America'
-  output-dir: ./docs
+  output-dir: ./docs/en
 
 website:
   navbar:
@@ -9,12 +9,15 @@ website:
         text: About Us
       - href: trabajos.qmd
         text: Publications
+      - href: historial_tesis.qmd
+        text: Thesis Projects
       - href: proyects.qmd
         text: Projects
       - href: ../
         text: English
-      - href: ../spa
+      - href: ../docs/spa/index.html
         text: Español
+
 
   sidebar:
     style: "docked"

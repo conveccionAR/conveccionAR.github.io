@@ -10,10 +10,12 @@ website:
       - href: quienes_somos.qmd
         text: Quiénes somos
       - href: trabajos.qmd
-        text: Trabajos realizados 
+        text: Publicaciones 
+      - href: historial_tesis.qmd
+        text: Tesis 
       - href: proyects.qmd
         text: Proyectos
-      - href: ../en
+      - href: ../docs/en
         text: English
       - href: ../
         text: Español

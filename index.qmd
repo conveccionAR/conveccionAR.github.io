@@ -2,13 +2,15 @@
 
 <h5>About Us</h5>
 
-We are a research group of the Sea and Atmosphere Research Centre (CIMA, CONICET-UBA), the French-Argentine Institute for Climate Studies and its Impacts (IFAECI, CNRS-CONICET-UBA), and the Department of Atmospheric and Ocean Sciences (DCAO, UBA). We are based in Buenos Aires, Argentina.
+We are a research group based in Buenos Aires, Argentina, affiliated with the Sea and Atmosphere Research Centre (CIMA, CONICET-UBA), the French-Argentine Institute for Climate Studies and its Impacts (IFAECI, CNRS-CONICET-UBA), and the Department of Atmospheric and Ocean Sciences (DCAO, UBA). We are based in Buenos Aires, Argentina.
 
 <h5>Research Interests</h5>
 
 * To understand the processes that initiate, organise and maintain deep moist convection in Southeast South America, with special emphasis on extreme convection events associated with high impact weather events, i.e. hail, severe gusts and flash floods.
 * Improve the characterisation and detection of deep moist convection.
 * Develop innovative approaches to spatio-temporal data analysis using in situ observations (observation campaigns), remote sensing (satellite instruments and weather radars), statistical techniques, artificial intelligence techniques and numerical modelling.
+
+Feel free to contact us and learn more about research opportunities in out group! 
 
 :::
 
@@ -23,6 +25,8 @@ Somos un grupo de investigación del Centro de Investigaciones del Mar y la Atm�
 * Entender los procesos que inician, organizan y mantienen la convección húmeda profunda en el Sudeste de Sudamérica, con especial énfasis en eventos de convección extrema asociados a eventos de alto impacto, es decir a la presencia de granizo, ráfagas severas e inundaciones repentinas.
 * Mejorar la caracterización y la detección de la convección húmeda profunda.
 * Desarrollar abordajes innovadores en el análisis de datos espacio-temporales usado observaciones in situ (campañas de observación), sensoramiento remoto (instrumentos satelitales y radares meteorológicos), técnicas estadísticas, técnicas de inteligencia artificial y modelado numérico.
+
+No dudes en contactarnos para conocer más sobre las oportunidades de investigación en nuestro grupo.
 
 :::
 
