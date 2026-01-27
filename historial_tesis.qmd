@@ -1,79 +1,89 @@
 ::: {.content-visible when-profile="english"}
 
-<h3>MSci. projects</h3>
+## Ongoing
 
-<h5>Ongoing</h5>
+### PhD. projects
 
-<h5>Past</h5>
+| Student | Thesis Title | Start Year |
+|:---|:---|:---:|
+| Esteban Semino | [Caracterización de patrones asociados a tiempo severo a partir de información satelital y aprendizaje automático (beca CONICET)]()  | 2026 |  
+| Yasmin Velazquez | [Estudio del Campo eléctrico atmosférico en diferentes estados de la atmósfera en el territorio de Argentina y sus implicancias en el pronostico de eventos de alto impacto (beca CONICET)]()  | 2021 | 
+| Ines Simone | [Estudio de la convección húmeda profunda con presencia de topes emergentes en el Sur de Sudamérica (beca CONICET)]()  | 2019 | 
 
-* Esteban Semino (DCAO Msci. student, 2025)
-* Matias Ballarin (DCAO Msci. student, 2025)
-* Agustin Granato (Análisis espacio-temporal de la distribución de granizo y sus entornos asociados en el sudeste de Sudamérica en base a datos de estaciones meteorológicas y reportes ciudadanos, DCAO, 2024)
-* Esteban Garuti (Avances en la Detección de Granizo: Un Enfoque basado en Radares de Banda C con Polarización Doble, DCAO, 2024)
-* Candela Casanovas (Variabilidad de la distribución de tamaños de gotas de lluvia en la región central de la Argentina durante RELAMPAGO-CACTI, DCAO, 2021)
-* Federico Cutraro (Desarrollo de imágenes satelitales sintéticas a partir de pronósticos numéricos de la atmósfera, DCAO, 2020) 
-* Yasmin Velazquez (Estudio del Gradiente de Potencial (Campo Eléctrico Vertical) Atmosférico en la zona de Villa Martelli, sus implicancias locales y globales, DCAO, 2021)
-* Ines Simone (Relaciones entre ascendentes intensas con topes emergentes y ocurrencia de fenómenos severos en superficie en el Sudeste de Sudamérica, DCAO, 2019)
-* Franco Piscitelli (Detección de sistemas severos de mesoescala y descripción de entornos asociados, DCAO, 2019)
-* Hernan Bechis (Estudio de la tropopausa de las Bajas Segregadas en el sur de Sudamérica, DCAO, 2019)
-* Milagros Alvarez Imaz (Procesos en la mesoescala que conducen a la convección húmeda profunda en el norte de la provincia de Córdoba, DCAO, 2015)
+### MSci. projects
 
-<h3>PhD. projects</h3>
+## Past
 
-<h5>Ongoing</h5>
+### PhD. projects
 
-* Yasmin Velazquez
-* Ines Simone
-* Esteban Semino 
+| Student | Thesis Title | Year |
+|:---|:---|:---:|
+| Paola Corrales  | [Utilización de datos satelitales para la evaluación y mejora de los pronósticos numéricos en alta resolución a muy corto plazo ](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n7410_Corrales) | 2023 |
+| Maite Cancelada | [Impacto de la presencia de aerosoles en el desarrollo de convección húmeda profunda en el Sudeste de Sudamérica](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n7112_Cancelada) | 2022 |
+| Hernan Bechis | [studio de los mecanismos que llevan a la formación y evolución de las líneas secas y su relación con el inicio de la convección profunda en la región central argentina](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2020 |
+| Milagros Alvarez Imaz | [Procesos dinámicos y microfísicos que conducen al inicio y mantenimiento de la convección húmeda profunda asociados a fenómenos de alto impacto en el centro de la Argentina](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2019 |
+| Luciano Vidal | [Convección extrema sobre Sudamérica: estructura interna, ciclos de vida e influencia de la topografía en la iniciación](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2014 |
 
-<h5>Past</h5>
+### MSci. projects
 
-* Paola Corrales (DCAO Msci. student, 20XX)
-* Maite Cancelada (Impacto de la presencia de aerosoles en el desarrollo de convección húmeda profunda en el Sudeste de Sudamérica, CONICET, )
-* Hernan Bechis (Estudio de los mecanismos que llevan a la formación y evolución de las líneas secas y su relación con el inicio de la convección profunda en la región central argentina, CONICET, 20XX)
-* Milagros Alvarez Imaz (Procesos dinámicos y microfísicos que conducen al inicio y mantenimiento de la convección húmeda profunda asociados a fenómenos de alto impacto en el centro de la Argentina, CONICET, 2019)
-* Luciano Vidal (Convección extrema sobre Sudamérica: estructura interna, ciclos de vida e influencia de la topografía en la iniciación, CONICET, 2014)
+| Student | Thesis Title | Year |
+|:--|:--|:--:|
+| Esteban Semino | []() | 2025 |
+| Matias Ballarin | []() | 2025 |
+| Agustin Granato | [Análisis espacio-temporal de la distribución de granizo y sus entornos asociados en el sudeste de Sudamérica en base a datos de estaciones meteorológicas y reportes ciudadanos]()  | 2024 |
+| Esteban Garuti | [Avances en la Detección de Granizo: Un Enfoque basado en Radares de Banda C con Polarización Doble]()  | 2024 |
+| Candela Casanovas | [Variabilidad de la distribución de tamaños de gotas de lluvia en la región central de la Argentina durante RELAMPAGO-CACTI]() | 2021 |
+| Yasmin Velazquez | [Estudio del Gradiente de Potencial (Campo Eléctrico Vertical) Atmosférico en la zona de Villa Martelli, sus implicancias locales y globales]() | 2021 |
+| Federico Cutraro | [Desarrollo de imágenes satelitales sintéticas a partir de pronósticos numéricos de la atmósfera]()  | 2020 |
+| Ines Simone | [Relaciones entre ascendentes intensas con topes emergentes y ocurrencia de fenómenos severos en superficie en el Sudeste de Sudamérica]()  | 2019 |
+| Franco Piscitelli | [Detección de sistemas severos de mesoescala y descripción de entornos asociados]()  | 2019 |
+| Hernan Bechis | [Estudio de la tropopausa de las Bajas Segregadas en el sur de Sudamérica]()  | 2019 |
+| Milagros Alvarez Imaz | [Procesos en la mesoescala que conducen a la convección húmeda profunda en el norte de la provincia de Córdoba]() | 2015 |
 
 
 :::
 
+
 ::: {.content-visible when-profile="spanish"}
 
-<h3>Tesis de Licenciatura</h3>
+## En curso
 
-<h5>En curso</h5>
+## Tesis de doctorado
 
-* 
-* 
+| Estudiante | Titulo | Año de inicio |
+|:---|:---|:---:|
+| Esteban Semino | [Caracterización de patrones asociados a tiempo severo a partir de información satelital y aprendizaje automático (beca CONICET)]()  | 2026 |  
+| Yasmin Velazquez | [Estudio del Campo eléctrico atmosférico en diferentes estados de la atmósfera en el territorio de Argentina y sus implicancias en el pronostico de eventos de alto impacto (beca CONICET)]()  | 2021 | 
+| Ines Simone | [Estudio de la convección húmeda profunda con presencia de topes emergentes en el Sur de Sudamérica (beca CONICET)]()  | 2019 | 
 
-<h5>Pasadas</h5>
+## Tesis de Licenciatura
 
-* Esteban Semino (DCAO Msci. student, 2025)
-* Matias Ballarin (DCAO Msci. student, 2025)
-* Agustin Granato (Análisis espacio-temporal de la distribución de granizo y sus entornos asociados en el sudeste de Sudamérica en base a datos de estaciones meteorológicas y reportes ciudadanos, DCAO, 2024)
-* Esteban Garuti (Avances en la Detección de Granizo: Un Enfoque basado en Radares de Banda C con Polarización Doble, DCAO, 2024)
-* Candela Casanovas (Variabilidad de la distribución de tamaños de gotas de lluvia en la región central de la Argentina durante RELAMPAGO-CACTI, DCAO, 2021)
-* Federico Cutraro (Desarrollo de imágenes satelitales sintéticas a partir de pronósticos numéricos de la atmósfera, DCAO, 2020) 
-* Yasmin Velazquez (DCAO Msci. student, 20XX)
-* Ines Simone (Relaciones entre ascendentes intensas con topes emergentes y ocurrencia de fenómenos severos en superficie en el Sudeste de Sudamérica, DCAO, 2019)
-* Franco Piscitelli (Detección de sistemas severos de mesoescala y descripción de entornos asociados, DCAO, 2019)
-* Hernan Bechis (Estudio de la tropopausa de las Bajas Segregadas en el sur de Sudamérica, DCAO, 2019)
-* Milagros Alvarez Imaz (Procesos en la mesoescala que conducen a la convección húmeda profunda en el norte de la provincia de Córdoba, DCAO, 2015)
+## Pasadas
 
-<h5>Tesis de doctorado</h5>
+## Tesis de doctorado
 
-<h3>Ongoing</h3>
+| Estudiante | Titulo | Año |
+|:---|:---|:---:|
+| Paola Corrales  | [Utilización de datos satelitales para la evaluación y mejora de los pronósticos numéricos en alta resolución a muy corto plazo ](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n7410_Corrales) | 2023 |
+| Maite Cancelada | [Impacto de la presencia de aerosoles en el desarrollo de convección húmeda profunda en el Sudeste de Sudamérica](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n7112_Cancelada) | 2022 |
+| Hernan Bechis | [studio de los mecanismos que llevan a la formación y evolución de las líneas secas y su relación con el inicio de la convección profunda en la región central argentina](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2020 |
+| Milagros Alvarez Imaz | [Procesos dinámicos y microfísicos que conducen al inicio y mantenimiento de la convección húmeda profunda asociados a fenómenos de alto impacto en el centro de la Argentina](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2019 |
+| Luciano Vidal | [Convección extrema sobre Sudamérica: estructura interna, ciclos de vida e influencia de la topografía en la iniciación](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2014 |
 
-* Yasmin Velazquez
-* Ines Simone
-* Esteban Semino 
+## Tesis de Licenciatura
 
-<h3>Pasadas</h3>
-
-* Paola Corrales (DCAO Msci. student, 20XX)
-* Maite Cancelada (Impacto de la presencia de aerosoles en el desarrollo de convección húmeda profunda en el Sudeste de Sudamérica, CONICET, )
-* Hernan Bechis (Estudio de los mecanismos que llevan a la formación y evolución de las líneas secas y su relación con el inicio de la convección profunda en la región central argentina, CONICET, 20XX)
-* Milagros Alvarez Imaz (Procesos dinámicos y microfísicos que conducen al inicio y mantenimiento de la convección húmeda profunda asociados a fenómenos de alto impacto en el centro de la Argentina, CONICET, 2019)
-* Luciano Vidal (Convección extrema sobre Sudamérica: estructura interna, ciclos de vida e influencia de la topografía en la iniciación, CONICET, 2014)
+| Estudiante | Titulo | Año  |
+|:--|:--|:--:|
+| Esteban Semino | []() | 2025 |
+| Matias Ballarin | []() | 2025 |
+| Agustin Granato | [Análisis espacio-temporal de la distribución de granizo y sus entornos asociados en el sudeste de Sudamérica en base a datos de estaciones meteorológicas y reportes ciudadanos]()  | 2024 |
+| Esteban Garuti | [Avances en la Detección de Granizo: Un Enfoque basado en Radares de Banda C con Polarización Doble]()  | 2024 |
+| Candela Casanovas | [Variabilidad de la distribución de tamaños de gotas de lluvia en la región central de la Argentina durante RELAMPAGO-CACTI]() | 2021 |
+| Yasmin Velazquez | [Estudio del Gradiente de Potencial (Campo Eléctrico Vertical) Atmosférico en la zona de Villa Martelli, sus implicancias locales y globales]() | 2021 |
+| Federico Cutraro | [Desarrollo de imágenes satelitales sintéticas a partir de pronósticos numéricos de la atmósfera]()  | 2020 |
+| Ines Simone | [Relaciones entre ascendentes intensas con topes emergentes y ocurrencia de fenómenos severos en superficie en el Sudeste de Sudamérica]()  | 2019 |
+| Franco Piscitelli | [Detección de sistemas severos de mesoescala y descripción de entornos asociados]()  | 2019 |
+| Hernan Bechis | [Estudio de la tropopausa de las Bajas Segregadas en el sur de Sudamérica]()  | 2019 |
+| Milagros Alvarez Imaz | [Procesos en la mesoescala que conducen a la convección húmeda profunda en el norte de la provincia de Córdoba]() | 2015 |
 
 :::

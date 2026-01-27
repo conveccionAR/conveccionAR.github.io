@@ -16,7 +16,7 @@ website:
       - href: proyects.qmd
         text: Proyectos
       - text: English
-        href: ../en/index.html # Points to the rendered English home
+        href: ../index.html # Points to the rendered English home
       - text: Español
         href: index.html
 
