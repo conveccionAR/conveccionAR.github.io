@@ -1,8 +1,8 @@
 ::: {.content-visible when-profile="english"}
 
-## Ongoing
+#### Ongoing
 
-### PhD. projects
+## PhD. projects
 
 | Student | Thesis Title | Start Year |
 |:---|:---|:---:|
@@ -10,11 +10,11 @@
 | Yasmin Velazquez | [Estudio del Campo eléctrico atmosférico en diferentes estados de la atmósfera en el territorio de Argentina y sus implicancias en el pronostico de eventos de alto impacto (beca CONICET)]()  | 2021 | 
 | Ines Simone | [Estudio de la convección húmeda profunda con presencia de topes emergentes en el Sur de Sudamérica (beca CONICET)]()  | 2019 | 
 
-### MSci. projects
+## MSci. projects
 
-## Past
+#### Past
 
-### PhD. projects
+## PhD. projects
 
 | Student | Thesis Title | Year |
 |:---|:---|:---:|
@@ -24,7 +24,7 @@
 | Milagros Alvarez Imaz | [Procesos dinámicos y microfísicos que conducen al inicio y mantenimiento de la convección húmeda profunda asociados a fenómenos de alto impacto en el centro de la Argentina](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2019 |
 | Luciano Vidal | [Convección extrema sobre Sudamérica: estructura interna, ciclos de vida e influencia de la topografía en la iniciación](https://bibliotecadigital.exactas.uba.ar/collection/tesis/document/tesis_n6841_Bechis) | 2014 |
 
-### MSci. projects
+## MSci. projects
 
 | Student | Thesis Title | Year |
 |:--|:--|:--:|
@@ -46,7 +46,7 @@
 
 ::: {.content-visible when-profile="spanish"}
 
-## En curso
+#### En curso
 
 ## Tesis de doctorado
 
@@ -58,7 +58,7 @@
 
 ## Tesis de Licenciatura
 
-## Pasadas
+#### Pasadas
 
 ## Tesis de doctorado
 
